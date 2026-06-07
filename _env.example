@@ -1,0 +1,19 @@
+# ╔══════════════════════════════════════════════════════════╗
+# ║  TEMPLATE KONFIGURASI — Portal Akademik SMAN 5 Pinrang  ║
+# ║  Salin file ini menjadi .env dan isi nilainya.          ║
+# ║  ⚠️  File .env TIDAK BOLEH di-commit ke GitHub!         ║
+# ╚══════════════════════════════════════════════════════════╝
+
+# Token GitHub Fine-Grained Personal Access Token
+# Buat di: https://github.com/settings/tokens?type=beta
+# Permission yang dibutuhkan: Contents → Read and Write
+GITHUB_TOKEN=ghp_GANTI_DENGAN_TOKEN_ANDA
+
+# Username GitHub pemilik repo
+GITHUB_OWNER=hostinger05
+
+# Nama repository
+GITHUB_REPO=ortu
+
+# Branch utama repo
+GITHUB_BRANCH=main
